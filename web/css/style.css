@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+body{
+    margin: .2em 15%;
+}
+
+.navigation_menu_container{
+    background-color: aquamarine;
+    width: fit-content;
+    position: relative;
+    margin: auto;
+}
+
+.menu_section{
+    background-color: aquamarine;
+    display: inline-block;
+    color: rgb(8, 4, 251);
+    text-decoration: none;
+    width: fit-content;
+    margin: .2em 1em;
+}
+
+.menu_section:hover{
+    background-color: rgb(8, 4, 251);
+    color: aquamarine;
+}
