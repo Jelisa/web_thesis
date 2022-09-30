@@ -24,3 +24,11 @@ body{
     background-color: rgb(8, 4, 251);
     color: aquamarine;
 }
+.education{
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+
+.education_description{
+    display: block;
+}
