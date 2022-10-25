@@ -1,32 +1,35 @@
 export const SPANISH_TEXT = {
     "navigationButtons" : ["Presentación", "Educación", "Software", "Publicaciones"],
-    "introductionText" : "",
+    "introductionText" : "<p>Buenas! Bienvenido a mi rinconcito de internet.</p> <p>Mi nombre es Jelisa Iglesias y soy una biotecnóloga reconvertida a  programadora.</p><p>He hecho esta web para mostrar una parte de mi trabajo como programadora.</p>",
     "educationText" : {
         "degree" : {
-            "name": "",
+            "name": "Grado en Biotecnología",
             "duration": [2008, 2013],
+            "institution" : "UB",
             "desciption" : ""
         },
         "master" : {
-            "name": "",
+            "name": "Master en Bioinformática",
             "duration": [2014, 2015],
+            "institution" : "UAB",
             "desciption" : ""
         },
         "doctorate" : {
-            "name": "",
+            "name": "Doctorado: Enrichment of virtual screening results using induced-fit techniques",
             "duration": [2015, 2020],
+            "institution" : "UPC",
             "desciption" : ""
         },
         "courseWebApps" : {
-            "name": "",
-            "duration": [2022 ],
+            "name": "Desarrollo de aplicaciones con tecnología web",
+            "duration": [2022, 2022],
             "institution" : "",
             "desciption" : ""
         }
     },
     "softwareText": {},
     "Pulications" : [
-        {"tittle": "", "publicationDate":"", "authors": "", "publisher": "", "doi": "", "abstract": "" }
+        {"tittle": "", "publicationDate":"", "authors": "", "publisher": "", "doi": "", "abstract": "" },
     ],
 }
 
@@ -58,7 +61,7 @@ export const ENGLISH_TEXT = {
     },
     "softwareText": {},
     "Pulications" : [
-        {"tittle": "", "publicationDate":"", "authors": "", "publisher": "", "doi": "", "abstract": "" }
+        {"tittle": "", "publicationDate":"", "authors": "", "publisher": "", "doi": "", "abstract": "" },
     ],
 }
 

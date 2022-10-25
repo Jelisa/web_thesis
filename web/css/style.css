@@ -4,6 +4,10 @@ body{
     margin: .2em 15%;
 }
 
+footer{
+    text-align: center;
+}
+
 .navigation_menu_container{
     background-color: aquamarine;
     width: fit-content;
